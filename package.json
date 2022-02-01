@@ -1,0 +1,17 @@
+{
+    "name": "com.heisarzola.unity-size-references",
+    "version": "1.0.0",
+    "displayName": "Sakura Tools - Size References",
+    "description": "On scene (editor-only) game objects with real world scales to help designing realistic sized scenes.",
+    "unity": "2019.1",
+    "dependencies": 
+    {
+        "com.heisarzola.unity-tools-core": "https://github.com/heisarzola/unity-tools-core.git"
+    },
+    "author": 
+    {
+      "name": "Arzola",
+      "email": "support@heisarzola.com",
+      "url": "https://heisarzola.com"
+    }
+  }

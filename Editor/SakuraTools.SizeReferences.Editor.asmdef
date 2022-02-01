@@ -1,0 +1,31 @@
+{
+    "name": "SakuraTools.SizeReferences.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:092096fd3389207418f46fa6c0d80a54",
+        "GUID:7836735b211047143ace3f9fb8f44026",
+        "GUID:4156434e6d47c2046b3dbdbada0718cc"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.render-pipelines.universal",
+            "expression": "",
+            "define": "ST_URP"
+        },
+        {
+            "name": "com.unity.render-pipelines.high-definition",
+            "expression": "",
+            "define": "ST_HDRP"
+        }
+    ],
+    "noEngineReferences": false
+}
